@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:padding="1dp">
+
+    <ImageView
+        android:id="@+id/imgCarta"
+        android:layout_width="130dp"
+        android:layout_height="180dp"
+        android:contentDescription="Imagen Carta"
+        android:src="@drawable/carta1"/>
+    <TextView
+        android:id="@+id/txtCarta"
+        android:layout_width="130dp"
+        android:layout_height="180dp"
+        android:contentDescription="Imagen Carta"
+        android:src="@drawable/carta1"/>
+
+</RelativeLayout>
